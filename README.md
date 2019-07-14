@@ -20,8 +20,11 @@ Library (dplyr)
 
 
 # Sample visualization showing the relationship of the attributes among the threads
+![p2](https://user-images.githubusercontent.com/26629945/61181190-8f14c200-a644-11e9-8678-a0133f86731c.JPG)
+
 
 # Visualization showing the total number of posts from 2002-2011
+
 
 # Sample visualization showing the investigation of whether the language used changes over time
  
