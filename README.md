@@ -16,6 +16,7 @@ Library (tidyverse)
 Library (dplyr)
 
 # Sample visualization showing the standard deviation of Thread 223928 against the whole forum to investigate the use of similar language
+![p1](https://user-images.githubusercontent.com/26629945/61181178-5e348d00-a644-11e9-91ae-e2dfc7983b87.JPG)
 
 
 # Sample visualization showing the relationship of the attributes among the threads
